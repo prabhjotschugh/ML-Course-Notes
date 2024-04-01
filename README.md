@@ -13,6 +13,19 @@ This repository contains comprehensive notes and code examples for learning Mach
 - Python Fundamentals (Functions, Conditional Statements, Loops - for, while)
 - Numpy Library
 
+### Lecture 3: 
+- Pandas Library
+- Matplotlib Library
+
+### Lecture 4: 
+- Seaborn Library
+- Sklearn Library
+- EDA on Netflix Dataset
+
+### Extra Resources
+- Sympy Library
+- Scipy Library
+
 Stay tuned for additional lectures! 🚀📚 
 
 You can follow me at [@prabhjotschugh](https://github.com/prabhjotschugh)  🌟
