@@ -22,6 +22,12 @@ This repository contains comprehensive notes and code examples for learning Mach
 - Sklearn Library
 - EDA on Netflix Dataset
 
+### Lecture 5: 
+- EDA on Amazon Prime Dataset
+
+### Lecture 4: 
+- Advanced EDA on Loan ELgibility Prediction Data
+
 ### Extra Resources
 - Sympy Library
 - Scipy Library
