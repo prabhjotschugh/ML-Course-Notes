@@ -25,7 +25,7 @@ This repository contains comprehensive notes and code examples for learning Mach
 ### Lecture 5: 
 - EDA on Amazon Prime Dataset
 
-### Lecture 4: 
+### Lecture 6: 
 - Advanced EDA on Loan ELgibility Prediction Data
 
 ### Extra Resources
